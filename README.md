@@ -29,7 +29,7 @@
 
 ## Computer Graphics Lab 📈 
 ### Approximate idea of Experiments for Computer Graphics folder. Although, the doc of detailed problem statements is also added in the folder.
-
+#### All these programs are performed using WEBGL.
 - Exp-1: Display your first and second name on the browser utilizing the raster grid system?
 - Exp-2: Plot the line between (x1,y1) and (x2,y2) using the line equation, y = mx+c, where x1 = last two digit of your roll no. y1 = x1 + 3 x2 = X1+ 10 y2 = y1 + 5
 - Exp-3: Draw a line between (x1, y1) and (x2, y2) using the DDA Algorithm. Also display all the obtained points on the console. Take below points x1 = last two digit of your roll no. y1 = x1 + 3, x2 = x1 + 9, y2 = y1 + 6
