@@ -7,7 +7,17 @@
 
 ## Database Management System 📅
 ### Approximate idea of Experiments for Database Management System folder. Although, the doc of detailed problem statements is also added in the folder.
-- Experiment-1: 
+- Experiment-1: To understand the concept of designing issue related to the database with creating, populating the tables. Also familiarize students with different ways of manipulation in database.
+- Experiment-2: To understand the concept of data constraints that is enforced on data being stored in the table. Focus on Primary Key and the Foreign Key.
+- Experiment-3: To understand the concept of SQL Sub-Query in the Database management system.
+- Experiment-4: To understand the use of inbuilt function and relational algebra with SQL query.
+- Experiment-5: To understand the use of group by and having clause and execute the SQL commands using JOIN.
+- Experiment-6: To understand the use and implementation of SQL views.
+- Experiment-7: To understand the use and implementation of SQL indexes.
+- Experiment-8: To understand the use and implementation of SQL sequences.
+- Experiment-9: To understand and implement the basics of PL/SQL Programming.
+- Experiment-10: To understand and implement the basics of functions and procedure in PL/SQL Programming
+
 
 
 ## Machine Learning Lab 🤖
