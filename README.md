@@ -23,11 +23,11 @@
 ## Machine Learning Lab 🤖
 ### Approximate idea of Experiments for Machine Learning folder. Although, the doc of detailed problem statements is also added in the folder.
 - Exp-0: Write any five programs based on python to refresh the concepts studied earlier.
-  1. Write a program to solve different set operations using python.
-  2. Write a program to implement different propositional logics.
-  3. Implement a guessing game where computer chooses a number and the user gets five chances to guess that number. If he can guess within the given limit he will win otherwise loose. 
-  4. Write a program to implement the linear regression and to calculate the regression coefficients.
-  5. Write a program to Bayesian Network for real-world data sets in the form of Burglary Alarm Problem.
+1. Write a program to solve different set operations using python.
+2. Write a program to implement different propositional logics.
+3. Implement a guessing game where computer chooses a number and the user gets five chances to guess that number. If he can guess within the given limit he will win otherwise loose. 
+4. Write a program to implement the linear regression and to calculate the regression coefficients.
+5. Write a program to Bayesian Network for real-world data sets in the form of Burglary Alarm Problem.
 - Exp-1: Write a program to implement KNN (K-nearest Neighbour) in python using Machine Learning.
 - Exp-2: Write a program to implement Linear Regression in python using Machine Learning.
 - Exp-3: Write a program to implement Logistic Regression in python using Machine Learning.
@@ -37,9 +37,6 @@ Exp-6: Write a program to implement ADA Boost Algorithm in python using Machine 
 - Exp-7: Write a program to implement K-Means Clustering Algorithm in python using Machine Learning.
 - Exp-8: Write a program to implement DB-Scan Clustering Algorithm in python using Machine Learning.
 - Exp-9: Write a program to implement TF-IDF information retrieval Algorithm in python using Machine Learning.
-
-
-
 
 
 ## Computer Graphics Lab 📈 
