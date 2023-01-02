@@ -42,5 +42,9 @@
 - Exp-10: Write a modified transformation method as per the last digit of your roll no. To implement the working of 2D Transformations.
 
 
+## Data Communication and Computer Networks Lab 📅
+### Approximate idea of Experiments for DCCN folder. Although, the doc of detailed problem statements is also added in the folder.
+- Experiment-1: Study & implementation of the concept of Bit Stuffing and De-Stuffing.
+- Experiment-2: Study & implementation of the concept of Cyclic Redundancy check.
 
 
